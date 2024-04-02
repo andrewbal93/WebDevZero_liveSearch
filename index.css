@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 30px;
+}
+
+#search-list {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+mark {
+    background-color: aqua;
+}
